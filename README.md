@@ -9,4 +9,4 @@ Live demos:
 - Flipside http://lab.hakim.se/flipside/
 - Progress Nav http://lab.hakim.se/progress-nav/
 
-Copyright (C) 2016 Hakim El Hattab, http://hakim.se
+ 2016 Hakim El Hattab, http://hakim.se
